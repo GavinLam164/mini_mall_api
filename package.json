@@ -1,0 +1,22 @@
+{
+  "name": "mini_mall_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "egg-bin dev",
+    "test": "egg-bin test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "egg": "^2.27.0",
+    "egg-mysql": "^3.0.0",
+    "egg-view-nunjucks": "^2.2.0"
+  },
+  "devDependencies": {
+    "egg-bin": "^4.15.0",
+    "egg-mock": "^4.0.0"
+  }
+}

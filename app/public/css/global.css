@@ -1,0 +1,28 @@
+
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+.container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+        background-color: #393D49;
+}
+
+.profile {
+    float: right;
+}
+
+.bottom {
+    flex: 1;
+    display: flex;
+}
+
+.layui-nav-tree {
+    height: 100%;
+}
